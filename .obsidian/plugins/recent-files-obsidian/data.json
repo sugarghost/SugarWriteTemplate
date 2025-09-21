@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "TEMP",
-      "path": "90_System/Attachments/TEMP.md"
-    },
-    {
       "basename": "Basic Note",
       "path": "90_System/Templates/Basic Note.md"
+    },
+    {
+      "basename": "Inbox",
+      "path": "00_Inbox/Inbox.md"
+    },
+    {
+      "basename": "Lore",
+      "path": "10_Lore/Lore.md"
+    },
+    {
+      "basename": "Characters",
+      "path": "20_Characters/Characters.md"
+    },
+    {
+      "basename": "Story",
+      "path": "40_Story/Story.md"
+    },
+    {
+      "basename": "Archives",
+      "path": "80_Archives/Archives.md"
+    },
+    {
+      "basename": "Reference",
+      "path": "90_System/Reference/Reference.md"
     },
     {
       "basename": "브레이킹 뉴스",
@@ -23,10 +43,6 @@
     {
       "basename": "Daily Investment Note",
       "path": "90_System/Templates/Daily Investment Note.md"
-    },
-    {
-      "basename": "Daily Note",
-      "path": "90_System/Templates/Daily Note.md"
     },
     {
       "basename": "무제",
@@ -183,22 +199,6 @@
     {
       "basename": "AutoQuant-KIS_V0 설계 프롬프트",
       "path": "10_Projects/AutoQuant-KIS/AutoQuant-KIS_V0 설계 프롬프트.md"
-    },
-    {
-      "basename": "2025-08-21",
-      "path": "05_Periodic/1_Daily/2025/08/2025-08-21.md"
-    },
-    {
-      "basename": "'이걸' 계속하는 뇌는 나를 부자로 만듭니다_몰입 전문가 황농문 교수 풀버전",
-      "path": "30_Resources/삶/'이걸' 계속하는 뇌는 나를 부자로 만듭니다_몰입 전문가 황농문 교수 풀버전.md"
-    },
-    {
-      "basename": "뭔가 가치가 있는 문서",
-      "path": "30_Resources/00_Zettelkasten/2_Permanent_Notes/뭔가 가치가 있는 문서.md"
-    },
-    {
-      "basename": "창의성을 기를려면 모르는 문제를 계속 고민해야하지만, 아는게 없는데 고민을 한다고 해서 답이 나올까",
-      "path": "30_Resources/00_Zettelkasten/1_Literature_Notes/창의성을 기를려면 모르는 문제를 계속 고민해야하지만, 아는게 없는데 고민을 한다고 해서 답이 나올까.md"
     }
   ],
   "omittedPaths": [],
