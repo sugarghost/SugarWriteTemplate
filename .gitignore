@@ -1,0 +1,17 @@
+# Obsidian - Ignore device-specific and temporary files
+
+## Workspace layout - DO NOT SYNC
+# This file stores pane arrangements, open files, etc.
+# Syncing this will cause layout conflicts between desktop and mobile.
+.obsidian/workspace
+.obsidian/workspace.json
+
+## Cache files
+.obsidian/cache
+
+## Optional: Large attachment folder if you manage them outside of git
+# 90_System/Attachments/
+
+## System files from macOS and Windows
+.DS_Store
+Thumbs.db

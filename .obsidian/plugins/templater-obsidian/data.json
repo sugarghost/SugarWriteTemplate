@@ -1,0 +1,50 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "90_System/Templates",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": false,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "05_Periodic/1_Daily",
+      "template": "90_System/Templates/Daily Note.md"
+    },
+    {
+      "folder": "05_Periodic/2_Weekly",
+      "template": "90_System/Templates/Weekly Review.md"
+    },
+    {
+      "folder": "30_Resources/00_Zettelkasten/1_Literature_Notes",
+      "template": "90_System/Templates/Literature Note.md"
+    },
+    {
+      "folder": "30_Resources/00_Zettelkasten/2_Permanent_Notes",
+      "template": "90_System/Templates/Permanent Note.md"
+    }
+  ],
+  "enable_file_templates": false,
+  "file_templates": [
+    {
+      "regex": ".*",
+      "template": ""
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [
+    ""
+  ],
+  "startup_templates": [
+    ""
+  ],
+  "intellisense_render": 1
+}
